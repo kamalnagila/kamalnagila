@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Kamal!
 
-<!--
-**kamalnagila/kamalnagila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍🎓 ECE Student | Aspiring VLSI Design & Verification Engineer
 
-Here are some ideas to get you started:
+- 📌 Passionate about Chip Design, RTL, and Functional Verification
+- 💻 Learning **Verilog, SystemVerilog, and UVM**
+- 🧪 Hands-on with **RTL coding, testbenches, FSMs, ALUs**
+- 🛠 Tools: ModelSim, Verilog HDL, Xilinx Vivado (optional), iverilog, GTKWave
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Current Projects
+- 🔹 4-bit & 16-bit ALU in Verilog
+- 🔹 Sequence Detector (Moore/Mealy FSM)
+- 🔹 Next: FIFO & UART Design
+
+### 📌 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/kamal-nagila-801240308/)
+
+---
+
