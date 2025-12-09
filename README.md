@@ -5,7 +5,7 @@
 - 📌 Passionate about Chip Design, RTL, and Functional Verification
 - 💻 Learning **Verilog, SystemVerilog, and UVM**
 - 🧪 Hands-on with **RTL coding, testbenches, FSMs, ALUs**
-- 🛠 Tools: ModelSim, Verilog HDL, Xilinx Vivado (optional), iverilog, GTKWave
+- 🛠 Tools: ModelSim, Verilog HDL, , iverilog, GTKWave
 
 ### 🔬 Current Projects
 - 🔹 4-bit & 16-bit ALU in Verilog
